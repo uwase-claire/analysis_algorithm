@@ -285,4 +285,5 @@ int main() {
   
 }
 
-
+Time complexity for all 6 function T(N)=6(O(N))
+	
